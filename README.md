@@ -5,3 +5,5 @@
 # blockchain.db.7z
 # blockchain.db.7z
 # blockchain.db.7z
+# blockchain.db.zip
+# blockchain.db.zip
